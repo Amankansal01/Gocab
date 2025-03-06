@@ -1,1 +1,1 @@
-# Gocab
+This project is a ride-hailing application that enables users to register, book trips, and make payments. The app integrates MySQL as the backend database to manage user data, ride information, and payment transactions. Geopy is used for distance calculation and fare estimation, optimizing routing and pricing to enhance the user experience
